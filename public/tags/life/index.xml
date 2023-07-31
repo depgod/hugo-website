@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>life on 🍥</title>
-    <link>https://main-page-2z2.pages.dev/tags/life/</link>
+    <link>https://hugo-website-c7m.pages.dev/tags/life/</link>
     <description>Recent content in life on 🍥</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://main-page-2z2.pages.dev/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://hugo-website-c7m.pages.dev/tags/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This blog</title>
-      <link>https://main-page-2z2.pages.dev/posts/2022-11-21-this-blog/</link>
+      <link>https://hugo-website-c7m.pages.dev/posts/2022-11-21-this-blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://main-page-2z2.pages.dev/posts/2022-11-21-this-blog/</guid>
+      <guid>https://hugo-website-c7m.pages.dev/posts/2022-11-21-this-blog/</guid>
       <description>Why this blog # As a lover of all things cyberpunk, Linux, and technology, I was inspired to create this website to share my passion and knowledge with like-minded individuals around the world.</description>
     </item>
     

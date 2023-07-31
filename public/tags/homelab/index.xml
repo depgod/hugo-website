@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>homelab on 🍥</title>
-    <link>https://main-page-2z2.pages.dev/tags/homelab/</link>
+    <link>https://hugo-website-c7m.pages.dev/tags/homelab/</link>
     <description>Recent content in homelab on 🍥</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://main-page-2z2.pages.dev/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://hugo-website-c7m.pages.dev/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I love Linux as a homelabber</title>
-      <link>https://main-page-2z2.pages.dev/posts/2023-02-23-why-i-love-linux-as-a-homelabber/</link>
+      <link>https://hugo-website-c7m.pages.dev/posts/2023-02-23-why-i-love-linux-as-a-homelabber/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://main-page-2z2.pages.dev/posts/2023-02-23-why-i-love-linux-as-a-homelabber/</guid>
+      <guid>https://hugo-website-c7m.pages.dev/posts/2023-02-23-why-i-love-linux-as-a-homelabber/</guid>
       <description>Why I love linux as a homelabber # As a homelabber, I have come to appreciate and love Linux for its flexibility, security, and versatility.</description>
     </item>
     
