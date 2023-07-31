@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>homelab on 🍥</title>
+    <link>http://example.org/tags/homelab/</link>
+    <description>Recent content in homelab on 🍥</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://example.org/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I love Linux as a homelabber</title>
+      <link>http://example.org/posts/2023-02-23-why-i-love-linux-as-a-homelabber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2023-02-23-why-i-love-linux-as-a-homelabber/</guid>
+      <description>Why I love linux as a homelabber # As a homelabber, I have come to appreciate and love Linux for its flexibility, security, and versatility.</description>
+    </item>
+    
+  </channel>
+</rss>

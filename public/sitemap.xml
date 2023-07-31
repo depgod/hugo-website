@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>http://example.org/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://example.org/about/</loc>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2022-11-19-about/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2022-11-14-adding-removing-permissions/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2022-08-18-file-archiving-compression/</loc>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2022-11-14-chaining-permissions/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2023-02-24-blogs-i-follow/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2022-11-14-file-directory-permissions/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2022-11-14-hardlinks-linux/</loc>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2022-11-14-how-permissions-work-on-files-directories/</loc>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2022-08-18-gpg-tutorial/</loc>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2022-11-14-octal-permissions/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/</loc>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2023-01-14-resume/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2022-11-21-services/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2022-11-14-setting-exact-permissions/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2022-08-18-ssh-key-based-auth/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2022-08-20-setup-static-ip-on-ubuntu-server/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2022-11-14-softlinks-linux/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2022-11-14-suid-agid-and-stickybit/</loc>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2022-11-21-this-blog/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2023-02-23-why-i-love-linux-as-a-homelabber/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://example.org/posts/2022-11-26-zerotier-instead-of-tailscale/</loc>
+          </url>
+    
+  
+</urlset>
