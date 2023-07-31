@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>resume on 🍥</title>
-    <link>http://example.org/tags/resume/</link>
+    <link>https://main-page-2z2.pages.dev/tags/resume/</link>
     <description>Recent content in resume on 🍥</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://example.org/tags/resume/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://main-page-2z2.pages.dev/tags/resume/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume</title>
-      <link>http://example.org/posts/2023-01-14-resume/</link>
+      <link>https://main-page-2z2.pages.dev/posts/2023-01-14-resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2023-01-14-resume/</guid>
+      <guid>https://main-page-2z2.pages.dev/posts/2023-01-14-resume/</guid>
       <description>Download Here</description>
     </item>
     

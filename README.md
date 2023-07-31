@@ -1,2 +1,0 @@
-# hugo-website
-hugo blog
