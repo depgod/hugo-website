@@ -1,8 +1,8 @@
 languageCode = "en"
 languageName = "English"
-weight = 1
+weight = 2
 
-title = "🍥"
+title = "☮ "
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -13,7 +13,7 @@ title = "🍥"
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
+  description = "My awesome website"
 
 [author]
   name = "Shashank"
@@ -22,7 +22,7 @@ title = "🍥"
   bio = "Hello, Welcome to my blog, I write about linux, foss and tech in general."
   links = [
     { email = "mailto:redpulsar@skiff.com" },
-    { link = "https://hugo-website-c7m.pages.dev/" },
+    { link = "https:shashank.work" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
@@ -54,7 +54,7 @@ title = "🍥"
   #   { snapchat = "https://snapchat.com/add/username" },
   #   { soundcloud = "https://soundcloud.com/" },
   #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
-  #   { steam = "https://steamcommunity.com/profiles/master28481" },
+    { steam = "https://steamcommunity.com/profiles/master28481" },
   #   { telegram = "https://t.me/blahblah269" },
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
