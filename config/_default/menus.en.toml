@@ -11,18 +11,23 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "posts"
+  name = "posts/"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "cv"
+  name = "cv/"
   pageRef = "categories"
   weight = 20
 
 [[main]]
-  name = "about"
+  name = "about/"
   pageRef = "about"
+  weight = 30
+
+[[main]]
+  name = "notes/"
+  url = "https://notes.shashank.work"
   weight = 30
 
 [[main]]
