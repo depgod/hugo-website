@@ -36,8 +36,10 @@
   [main.params]
     action = "search"
 
-
-
+[[main]]
+  name = "Login🔒"
+  url = "https://nc.1-sh.online/login"
+  weight = 150
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
