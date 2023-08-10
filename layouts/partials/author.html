@@ -18,6 +18,7 @@
     {{ end }}
     <div class="place-self-center">
       {{ with .Site.Author.name | markdownify | emojify }}
+    <!--<a href="https://iconscout.com/icons/redhat" target="_blank">Free Redhat Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> on <a href="https://iconscout.com">IconScout</a>-->
         <div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
           {{ i18n "author.byline_title" | markdownify | emojify }}
         </div>
@@ -28,6 +29,7 @@
       {{ with .Site.Author.bio | markdownify | emojify }}
         <div class="text-sm text-neutral-700 dark:text-neutral-400">{{ . }}</div>
       {{ end }}
+      <!--<a href="https://emoji.gg/emoji/4787_redhat"><img src="https://cdn3.emoji.gg/emojis/4787_redhat.png" width="64px" height="64px" alt="redhat"></a>-->
       <div class="text-2xl sm:text-lg">{{ partialCached "author-links.html" . }}</div>
     </div>
   </div>
