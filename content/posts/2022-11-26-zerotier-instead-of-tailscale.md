@@ -2,6 +2,7 @@
 layout: single
 title: Zerotier instead of Tailscale
 tags: networking
+date: 2022-11-26
 ---
 
 # Zerotier instead of Tailscale

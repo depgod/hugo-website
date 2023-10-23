@@ -2,6 +2,7 @@
 layout: single
 title: Setting Exact Permissions
 tags: linux
+date: 2022-11-14
 ---
 
 # Setting Exact Permissions

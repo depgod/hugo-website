@@ -2,6 +2,7 @@
 title: Why I love Linux as a homelabber
 layout: single
 tags: homelab
+date: 2023-02-23
 ---
 
 # Why I love linux as a homelabber  

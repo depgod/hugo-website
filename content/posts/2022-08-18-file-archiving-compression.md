@@ -2,6 +2,7 @@
 layout: single
 title: Basic file archiving and compression on linux
 tags: linux
+date: 2022-08-18
 ---
   
   

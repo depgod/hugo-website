@@ -3,6 +3,7 @@ layout: posts
 title: Setup ssh key based authentication
 tags: linux
 permalink: /year-archive/
+date: 2022-08-18
 ---
 # Tutorial
   

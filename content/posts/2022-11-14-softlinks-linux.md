@@ -2,6 +2,7 @@
 layout: single
 title: Softlinks in linux
 tags: linux
+date: 2022-11-14
 ---
 
 # Softlinks in linux

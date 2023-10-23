@@ -2,6 +2,7 @@
 layout: single
 title: File Directory Permissions
 tags: linux
+date: 2022-11-14
 ---
 
 # File and Directory Permissions

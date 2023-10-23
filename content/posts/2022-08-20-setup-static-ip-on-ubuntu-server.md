@@ -2,6 +2,7 @@
 layout: single
 title: Setup static ip on ubuntu-server
 tags: networking
+date: 2022-08-20
 ---
 ## Setup static ip on ubuntu-server
   

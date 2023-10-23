@@ -2,6 +2,7 @@
 layout: single
 title: Hardlinks in Linux
 tags: linux
+date: 2022-11-14
 ---
 
 # Hard Links in Linux

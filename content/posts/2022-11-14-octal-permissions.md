@@ -2,6 +2,7 @@
 layout: single
 title: Octal Permissions
 tags: linux
+date: 2022-11-14
 ---
 
 # Octal Permissions

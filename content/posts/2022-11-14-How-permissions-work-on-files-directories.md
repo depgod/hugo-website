@@ -2,6 +2,7 @@
 layout: single
 title: How permissions work on files and directories
 tags: linux
+date: 2022-11-14
 ---
 
 # List set and change standard permissions

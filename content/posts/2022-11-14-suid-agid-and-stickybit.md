@@ -2,6 +2,7 @@
 layout: single
 title: SUID, SGID and Stickybit
 tags: linux
+date: 2022-11-14
 ---
 
 # SUID, SGID, and Sticky Bit
