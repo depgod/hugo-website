@@ -18,7 +18,7 @@ title = "🌍"
 [author]
   name = "Shashank"
   image = "img/moon.png"
-  headline = "I'm only human"
+  headline = "Linux Systems Administrator"
   bio = "Hello, Welcome to my blog, I write about linux 🐧 , foss and tech 🚀 in general."
   links = [
     { email = "mailto:mail@shashank.work" },
