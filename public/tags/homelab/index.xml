@@ -5,11 +5,12 @@
     <link>https://hugo-website-c7m.pages.dev/tags/homelab/</link>
     <description>Recent content in homelab on 🌍</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://hugo-website-c7m.pages.dev/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-website-c7m.pages.dev/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I love Linux as a homelabber</title>
       <link>https://hugo-website-c7m.pages.dev/posts/2023-02-23-why-i-love-linux-as-a-homelabber/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://hugo-website-c7m.pages.dev/posts/2023-02-23-why-i-love-linux-as-a-homelabber/</guid>
       <description>Why I love linux as a homelabber # As a homelabber, I have come to appreciate and love Linux for its flexibility, security, and versatility.</description>

@@ -5,23 +5,24 @@
     <link>https://hugo-website-c7m.pages.dev/tags/networking/</link>
     <description>Recent content in networking on 🌍</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://hugo-website-c7m.pages.dev/tags/networking/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Setup static ip on ubuntu-server</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2022-08-20-setup-static-ip-on-ubuntu-server/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2022-08-20-setup-static-ip-on-ubuntu-server/</guid>
-      <description>Setup static ip on ubuntu-server # Using netplan</description>
-    </item>
-    
+    <language>en</language>
+    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-website-c7m.pages.dev/tags/networking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zerotier instead of Tailscale</title>
       <link>https://hugo-website-c7m.pages.dev/posts/2022-11-26-zerotier-instead-of-tailscale/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hugo-website-c7m.pages.dev/posts/2022-11-26-zerotier-instead-of-tailscale/</guid>
       <description>Zerotier instead of Tailscale # ZeroTier and Tailscale are two popular software-defined networking (SDN) solutions that provide secure and flexible networking options for businesses and individuals.</description>
+    </item>
+    
+    <item>
+      <title>Setup static ip on ubuntu-server</title>
+      <link>https://hugo-website-c7m.pages.dev/posts/2022-08-20-setup-static-ip-on-ubuntu-server/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-website-c7m.pages.dev/posts/2022-08-20-setup-static-ip-on-ubuntu-server/</guid>
+      <description>Setup static ip on ubuntu-server # Using netplan</description>
     </item>
     
   </channel>

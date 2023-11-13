@@ -5,6 +5,161 @@
     
       <url>
             <loc>https://hugo-website-c7m.pages.dev/</loc>
+            <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/2023-10-23-learning-awk/</loc>
+            <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/</loc>
+            <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/2023-02-23-why-i-love-linux-as-a-homelabber/</loc>
+            <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/2023-01-14-resume/</loc>
+            <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-26-zerotier-instead-of-tailscale/</loc>
+            <lastmod>2022-11-26T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-21-services/</loc>
+            <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-21-this-blog/</loc>
+            <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-14-adding-removing-permissions/</loc>
+            <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-14-chaining-permissions/</loc>
+            <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-14-file-directory-permissions/</loc>
+            <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-14-hardlinks-linux/</loc>
+            <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-14-how-permissions-work-on-files-directories/</loc>
+            <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-14-octal-permissions/</loc>
+            <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-14-setting-exact-permissions/</loc>
+            <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-14-softlinks-linux/</loc>
+            <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-14-suid-agid-and-stickybit/</loc>
+            <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/2022-08-20-setup-static-ip-on-ubuntu-server/</loc>
+            <lastmod>2022-08-20T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/2022-08-18-file-archiving-compression/</loc>
+            <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/2022-08-18-gpg-tutorial/</loc>
+            <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://hugo-website-c7m.pages.dev/posts/2022-08-18-ssh-key-based-auth/</loc>
+            <lastmod>2022-08-18T00:00:00+00:00</lastmod>
           </url>
     
   
@@ -17,136 +172,10 @@
     
   
     
-      <url>
-            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-14-adding-removing-permissions/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://hugo-website-c7m.pages.dev/posts/2022-08-18-file-archiving-compression/</loc>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-14-chaining-permissions/</loc>
-          </url>
-    
   
     
       <url>
             <loc>https://hugo-website-c7m.pages.dev/posts/2023-02-24-blogs-i-follow/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-14-file-directory-permissions/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-14-hardlinks-linux/</loc>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-14-how-permissions-work-on-files-directories/</loc>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://hugo-website-c7m.pages.dev/posts/2022-08-18-gpg-tutorial/</loc>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-14-octal-permissions/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://hugo-website-c7m.pages.dev/posts/</loc>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://hugo-website-c7m.pages.dev/posts/2023-01-14-resume/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-21-services/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-14-setting-exact-permissions/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://hugo-website-c7m.pages.dev/posts/2022-08-18-ssh-key-based-auth/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://hugo-website-c7m.pages.dev/posts/2022-08-20-setup-static-ip-on-ubuntu-server/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-14-softlinks-linux/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-14-suid-agid-and-stickybit/</loc>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-21-this-blog/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://hugo-website-c7m.pages.dev/posts/2023-02-23-why-i-love-linux-as-a-homelabber/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://hugo-website-c7m.pages.dev/posts/2022-11-26-zerotier-instead-of-tailscale/</loc>
           </url>
     
   
