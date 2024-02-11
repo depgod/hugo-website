@@ -11,6 +11,12 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Tools"
+  url = "https://it.1-sh.online"
+  weight = "150"
+
+
+[[main]]
   name = "posts/"
   pageRef = "posts"
   weight = 10
@@ -40,6 +46,10 @@
   name = "Login🔒"
   url = "https://nc.1-sh.online/login"
   weight = 150
+
+
+
+
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
