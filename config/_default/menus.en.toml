@@ -14,6 +14,10 @@
   name = "Tools"
   url = "https://it.1-sh.online"
   weight = "150"
+  [main.params]
+    name = 'OpenResume'
+    url = "https://resume.1-sh.online"
+    weight = "150"
 
 
 [[main]]
