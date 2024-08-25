@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>networking on 🌍</title>
-    <link>https://hugo-website-c7m.pages.dev/tags/networking/</link>
-    <description>Recent content in networking on 🌍</description>
+    <title>Networking on 🌍</title>
+    <link>http://localhost:1313/tags/networking/</link>
+    <description>Recent content in Networking on 🌍</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-website-c7m.pages.dev/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/networking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zerotier instead of Tailscale</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2022-11-26-zerotier-instead-of-tailscale/</link>
+      <link>http://localhost:1313/posts/2022-11-26-zerotier-instead-of-tailscale/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2022-11-26-zerotier-instead-of-tailscale/</guid>
+      <guid>http://localhost:1313/posts/2022-11-26-zerotier-instead-of-tailscale/</guid>
       <description>Zerotier instead of Tailscale # ZeroTier and Tailscale are two popular software-defined networking (SDN) solutions that provide secure and flexible networking options for businesses and individuals.</description>
     </item>
-    
     <item>
       <title>Setup static ip on ubuntu-server</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2022-08-20-setup-static-ip-on-ubuntu-server/</link>
+      <link>http://localhost:1313/posts/2022-08-20-setup-static-ip-on-ubuntu-server/</link>
       <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2022-08-20-setup-static-ip-on-ubuntu-server/</guid>
+      <guid>http://localhost:1313/posts/2022-08-20-setup-static-ip-on-ubuntu-server/</guid>
       <description>Setup static ip on ubuntu-server # Using netplan</description>
     </item>
-    
   </channel>
 </rss>

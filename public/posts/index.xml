@@ -2,190 +2,158 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 🌍</title>
-    <link>https://hugo-website-c7m.pages.dev/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on 🌍</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-website-c7m.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MKBHD&#39;s Blind Spot: The Perils of Proprietary Tech Ecosystems</title>
+      <link>http://localhost:1313/posts/2024-02-11-mkbhd/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-02-11-mkbhd/</guid>
+      <description>In the rapidly evolving landscape of consumer technology, few voices command as much influence and respect as MKBHD.</description>
+    </item>
     <item>
       <title>Learning AWK</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2023-10-23-learning-awk/</link>
+      <link>http://localhost:1313/posts/2023-10-23-learning-awk/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2023-10-23-learning-awk/</guid>
+      <guid>http://localhost:1313/posts/2023-10-23-learning-awk/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Why I love Linux as a homelabber</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2023-02-23-why-i-love-linux-as-a-homelabber/</link>
+      <link>http://localhost:1313/posts/2023-02-23-why-i-love-linux-as-a-homelabber/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2023-02-23-why-i-love-linux-as-a-homelabber/</guid>
+      <guid>http://localhost:1313/posts/2023-02-23-why-i-love-linux-as-a-homelabber/</guid>
       <description>Why I love linux as a homelabber # As a homelabber, I have come to appreciate and love Linux for its flexibility, security, and versatility.</description>
     </item>
-    
     <item>
       <title>Resume</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2023-01-14-resume/</link>
+      <link>http://localhost:1313/posts/2023-01-14-resume/</link>
       <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2023-01-14-resume/</guid>
+      <guid>http://localhost:1313/posts/2023-01-14-resume/</guid>
       <description>Download Here</description>
     </item>
-    
     <item>
       <title>Zerotier instead of Tailscale</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2022-11-26-zerotier-instead-of-tailscale/</link>
+      <link>http://localhost:1313/posts/2022-11-26-zerotier-instead-of-tailscale/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2022-11-26-zerotier-instead-of-tailscale/</guid>
+      <guid>http://localhost:1313/posts/2022-11-26-zerotier-instead-of-tailscale/</guid>
       <description>Zerotier instead of Tailscale # ZeroTier and Tailscale are two popular software-defined networking (SDN) solutions that provide secure and flexible networking options for businesses and individuals.</description>
     </item>
-    
     <item>
       <title>Services</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2022-11-21-services/</link>
+      <link>http://localhost:1313/posts/2022-11-21-services/</link>
       <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2022-11-21-services/</guid>
+      <guid>http://localhost:1313/posts/2022-11-21-services/</guid>
       <description>Services # I have set up self-hosted free services in my homelab for several reasons.</description>
     </item>
-    
     <item>
       <title>This blog</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2022-11-21-this-blog/</link>
+      <link>http://localhost:1313/posts/2022-11-21-this-blog/</link>
       <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2022-11-21-this-blog/</guid>
+      <guid>http://localhost:1313/posts/2022-11-21-this-blog/</guid>
       <description>Why this blog # As a lover of all things cyberpunk, Linux, and technology, I was inspired to create this website to share my passion and knowledge with like-minded individuals around the world.</description>
     </item>
-    
     <item>
       <title>Adding and removing Permissions</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2022-11-14-adding-removing-permissions/</link>
+      <link>http://localhost:1313/posts/2022-11-14-adding-removing-permissions/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2022-11-14-adding-removing-permissions/</guid>
+      <guid>http://localhost:1313/posts/2022-11-14-adding-removing-permissions/</guid>
       <description>Adding permissions # In order to change permissions of a file we can use specific options with the chmod command.</description>
     </item>
-    
     <item>
       <title>Chaining Permissions</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2022-11-14-chaining-permissions/</link>
+      <link>http://localhost:1313/posts/2022-11-14-chaining-permissions/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2022-11-14-chaining-permissions/</guid>
+      <guid>http://localhost:1313/posts/2022-11-14-chaining-permissions/</guid>
       <description>Chaining Permissions # In chaining permissions we give simultaneous permissions to different sets be it user or groups or others.</description>
     </item>
-    
     <item>
       <title>File Directory Permissions</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2022-11-14-file-directory-permissions/</link>
+      <link>http://localhost:1313/posts/2022-11-14-file-directory-permissions/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2022-11-14-file-directory-permissions/</guid>
+      <guid>http://localhost:1313/posts/2022-11-14-file-directory-permissions/</guid>
       <description>File and Directory Permissions # Understanding read, write and executable permissions.</description>
     </item>
-    
     <item>
       <title>Hardlinks in Linux</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2022-11-14-hardlinks-linux/</link>
+      <link>http://localhost:1313/posts/2022-11-14-hardlinks-linux/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2022-11-14-hardlinks-linux/</guid>
+      <guid>http://localhost:1313/posts/2022-11-14-hardlinks-linux/</guid>
       <description>Hard Links in Linux # Hard links are links which points to an inode of a file.</description>
     </item>
-    
     <item>
       <title>How permissions work on files and directories</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2022-11-14-how-permissions-work-on-files-directories/</link>
+      <link>http://localhost:1313/posts/2022-11-14-how-permissions-work-on-files-directories/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2022-11-14-how-permissions-work-on-files-directories/</guid>
+      <guid>http://localhost:1313/posts/2022-11-14-how-permissions-work-on-files-directories/</guid>
       <description>List set and change standard permissions # chgrp - change group</description>
     </item>
-    
     <item>
       <title>Octal Permissions</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2022-11-14-octal-permissions/</link>
+      <link>http://localhost:1313/posts/2022-11-14-octal-permissions/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2022-11-14-octal-permissions/</guid>
+      <guid>http://localhost:1313/posts/2022-11-14-octal-permissions/</guid>
       <description>Octal Permissions # In order to understand octal permissions we need to use the stat command:</description>
     </item>
-    
     <item>
       <title>Setting Exact Permissions</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2022-11-14-setting-exact-permissions/</link>
+      <link>http://localhost:1313/posts/2022-11-14-setting-exact-permissions/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2022-11-14-setting-exact-permissions/</guid>
+      <guid>http://localhost:1313/posts/2022-11-14-setting-exact-permissions/</guid>
       <description>Setting Exact Permissions # Just like while adding or removing permissions we can set exact permissions using the &amp;ldquo;=&amp;rdquo; sign insted of &amp;ldquo;+&amp;rdquo;/&amp;quot;-&amp;quot;.</description>
     </item>
-    
     <item>
       <title>Softlinks in linux</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2022-11-14-softlinks-linux/</link>
+      <link>http://localhost:1313/posts/2022-11-14-softlinks-linux/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2022-11-14-softlinks-linux/</guid>
+      <guid>http://localhost:1313/posts/2022-11-14-softlinks-linux/</guid>
       <description>Softlinks in linux # Softlinks are basically an absolute path to the executable, like in windows we see desktop shortcuts which actually leads to an absolute path of the executable resulting in executing that file upon clicking.</description>
     </item>
-    
     <item>
       <title>SUID, SGID and Stickybit</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2022-11-14-suid-agid-and-stickybit/</link>
+      <link>http://localhost:1313/posts/2022-11-14-suid-agid-and-stickybit/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2022-11-14-suid-agid-and-stickybit/</guid>
+      <guid>http://localhost:1313/posts/2022-11-14-suid-agid-and-stickybit/</guid>
       <description>SUID, SGID, and Sticky Bit # SUID, SGID, and sticky bits are Linux file attributes that allow you to define special permissions on files and directories.</description>
     </item>
-    
     <item>
       <title>Setup static ip on ubuntu-server</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2022-08-20-setup-static-ip-on-ubuntu-server/</link>
+      <link>http://localhost:1313/posts/2022-08-20-setup-static-ip-on-ubuntu-server/</link>
       <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2022-08-20-setup-static-ip-on-ubuntu-server/</guid>
+      <guid>http://localhost:1313/posts/2022-08-20-setup-static-ip-on-ubuntu-server/</guid>
       <description>Setup static ip on ubuntu-server # Using netplan</description>
     </item>
-    
     <item>
       <title>Basic file archiving and compression on linux</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2022-08-18-file-archiving-compression/</link>
+      <link>http://localhost:1313/posts/2022-08-18-file-archiving-compression/</link>
       <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2022-08-18-file-archiving-compression/</guid>
+      <guid>http://localhost:1313/posts/2022-08-18-file-archiving-compression/</guid>
       <description>Archiving a file</description>
     </item>
-    
     <item>
       <title>Managing our GPG keys on linux for better security</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2022-08-18-gpg-tutorial/</link>
+      <link>http://localhost:1313/posts/2022-08-18-gpg-tutorial/</link>
       <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2022-08-18-gpg-tutorial/</guid>
+      <guid>http://localhost:1313/posts/2022-08-18-gpg-tutorial/</guid>
       <description>Tutorial # Create your own private/public key pair and revocation certificate</description>
     </item>
-    
     <item>
       <title>Setup ssh key based authentication</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2022-08-18-ssh-key-based-auth/</link>
+      <link>http://localhost:1313/posts/2022-08-18-ssh-key-based-auth/</link>
       <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2022-08-18-ssh-key-based-auth/</guid>
+      <guid>http://localhost:1313/posts/2022-08-18-ssh-key-based-auth/</guid>
       <description>Tutorial # &amp;ndash;</description>
     </item>
-    
     <item>
       <title>Communities / Blogs I follow</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2023-02-24-blogs-i-follow/</link>
+      <link>http://localhost:1313/posts/2023-02-24-blogs-i-follow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2023-02-24-blogs-i-follow/</guid>
+      <guid>http://localhost:1313/posts/2023-02-24-blogs-i-follow/</guid>
       <description>Communities / Blogs I follow # Websites # It&amp;rsquo;s Foss -&amp;gt; https://itsfoss.</description>
     </item>
-    
   </channel>
 </rss>

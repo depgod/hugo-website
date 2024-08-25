@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>about on 🌍</title>
-    <link>https://hugo-website-c7m.pages.dev/tags/about/</link>
-    <description>Recent content in about on 🌍</description>
+    <title>About on 🌍</title>
+    <link>http://localhost:1313/tags/about/</link>
+    <description>Recent content in About on 🌍</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://hugo-website-c7m.pages.dev/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://hugo-website-c7m.pages.dev/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>In the world of technology, there are many people who enjoy tinkering with their own personal systems and software, often referred to as &#34;</description>
     </item>
-    
   </channel>
 </rss>

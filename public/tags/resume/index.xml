@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>resume on 🌍</title>
-    <link>https://hugo-website-c7m.pages.dev/tags/resume/</link>
-    <description>Recent content in resume on 🌍</description>
+    <title>Resume on 🌍</title>
+    <link>http://localhost:1313/tags/resume/</link>
+    <description>Recent content in Resume on 🌍</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-website-c7m.pages.dev/tags/resume/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/resume/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2023-01-14-resume/</link>
+      <link>http://localhost:1313/posts/2023-01-14-resume/</link>
       <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2023-01-14-resume/</guid>
+      <guid>http://localhost:1313/posts/2023-01-14-resume/</guid>
       <description>Download Here</description>
     </item>
-    
   </channel>
 </rss>

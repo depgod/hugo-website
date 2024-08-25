@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>homelab on 🌍</title>
-    <link>https://hugo-website-c7m.pages.dev/tags/homelab/</link>
-    <description>Recent content in homelab on 🌍</description>
+    <title>Homelab on 🌍</title>
+    <link>http://localhost:1313/tags/homelab/</link>
+    <description>Recent content in Homelab on 🌍</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-website-c7m.pages.dev/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I love Linux as a homelabber</title>
-      <link>https://hugo-website-c7m.pages.dev/posts/2023-02-23-why-i-love-linux-as-a-homelabber/</link>
+      <link>http://localhost:1313/posts/2023-02-23-why-i-love-linux-as-a-homelabber/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://hugo-website-c7m.pages.dev/posts/2023-02-23-why-i-love-linux-as-a-homelabber/</guid>
+      <guid>http://localhost:1313/posts/2023-02-23-why-i-love-linux-as-a-homelabber/</guid>
       <description>Why I love linux as a homelabber # As a homelabber, I have come to appreciate and love Linux for its flexibility, security, and versatility.</description>
     </item>
-    
   </channel>
 </rss>
